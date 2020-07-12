@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Hi! I’m Patrick. I’m a curiosity-driven data scientist with a background in machine learning, neuroscience and tech transfer. I’m passionate about combining data with curiosity to make healthcare better for everyone. 
+
+I also enjoy supporting aspiring analytics professionals with their career goals. Feel free to reach out 🙂
+
+
 <!--
 **pkmklong/pkmklong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
