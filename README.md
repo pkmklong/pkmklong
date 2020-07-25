@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 -->
 
 
-Small time side projects:
-* Utility packages to employ ICD general equivalency maps (Python and Julia)
-* Educational IOS app about basic data science/statistics concepts (Swift)
+Small side projects/excuses to code 🤔
+* Utility packages to invoke ICD general equivalency maps in Python and Julia
+* An Educational IOS app for basic data science/statistics concepts (Swift)
