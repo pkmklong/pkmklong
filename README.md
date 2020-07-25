@@ -8,8 +8,6 @@ A few of my interests 🌱
 * <b>Algorithmic Fairness </b>- how can we ensure data-driven solutions provide all patients with optimal and equitable care?
 * <b>Biology </b>- how does early life experience shape communication pathways between different areas of the brain? 
 
-I also enjoy supporting aspiring analytics professionals with their career goals. Feel free to reach out 🙂
-
 <!--
 **pkmklong/pkmklong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,3 +27,6 @@ Here are some ideas to get you started:
 Small side projects/excuses to code 🤔
 * Utility packages to invoke ICD general equivalency maps in Python and Julia
 * An Educational IOS app for basic data science/statistics concepts (Swift)
+
+I also enjoy supporting aspiring analytics professionals with their career goals. Feel free to reach out 🙂
+
