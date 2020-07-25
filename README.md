@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 -->
 
 
-Small side projects/excuses to code 🤔
-* Utility packages to invoke ICD general equivalency maps in Python and Julia
-* An Educational IOS app for basic data science/statistics concepts (Swift)
+Small side projects/<b>excuses to code</b> 🔭
+* Utilities to invoke ICD general equivalency maps in <b>Python</b> and <b>Julia</b>
+* An educational IOS data science/statistics app in <b>Swift</b>
 
 I also enjoy supporting aspiring analytics professionals with their career goals. Feel free to reach out 🙂
 
