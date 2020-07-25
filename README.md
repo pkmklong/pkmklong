@@ -5,7 +5,7 @@ Hi! I’m Patrick. I’m a curiosity-driven data scientist with a background in 
 A few of my interests 🌱 
 * <b>Applied AI in Healthcare </b>- how can data practitioners best collaborate with healthcare professionals to improve patient outcomes?
 * <b>Data Interoperability </b>- how can we make various health data play well together?
-* <b>Algorithmic Fairness </b>- how to ensure data-driven solutions provide all patients with optimal and equitable care?
+* <b>Algorithmic Fairness </b>- how can we ensure data-driven solutions provide all patients with optimal and equitable care?
 * <b>Biology </b>- how does early life experience shape communication pathways between different areas of the brain? 
 
 I also enjoy supporting aspiring analytics professionals with their career goals. Feel free to reach out 🙂
