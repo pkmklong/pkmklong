@@ -24,3 +24,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Small time side projects:
+* Utility packages to employ ICD general equivalency maps (Python and Julia)
+* Educational IOS app about basic data science/statistics concepts (Swift)
