@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 Small side projects/<b>excuses to code</b> 🔭
 * An educational IOS data science/statistics app in <b>Swift</b>
 * An audio-based IOS sentiment analysis app in <b>Swift</b> and <b>Python</b>
-* Utilities to invoke general equivalency maps in <b>Python</b> and <b>Julia</b>
-* Various sandboxe repos exploring tools in AWS, auto ML, data engineering etc. <b>Python</b>
+* Various sandboxes repos exploring tools in AWS, auto ML, data engineering etc. <b>Python</b>
 
 I also enjoy supporting aspiring analytics professionals with their career goals. Feel free to reach out 🙂
 
