@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 Small side projects/<b>excuses to code</b> 🔭
-* Utilities to invoke ICD general equivalency maps in <b>Python</b> and <b>Julia</b>
+* Utilities to invoke general equivalency maps in <b>Python</b> and <b>Julia</b>
 * An educational IOS data science/statistics app in <b>Swift</b>
 
 I also enjoy supporting aspiring analytics professionals with their career goals. Feel free to reach out 🙂
