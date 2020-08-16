@@ -28,10 +28,9 @@ Small side projects/<b>excuses to code</b> 🔭
 * An educational IOS data science/statistics app in <b>Swift</b>
 * An audio-based IOS sentiment analysis app in <b>Swift</b> and <b>Python</b>
 * Various sandbox repos exploring tools in AWS, auto ML, data engineering etc. in <b>Python</b> and <b>Julia</b>
-
-Various small utility packages 🔧
-* [pycr - readthedocs](https://pycr.readthedocs.io/en/latest/)
-* [pyicd - readthedocs](https://pyicd.readthedocs.io/en/latest/)
+* Various small utility packages 🔧
+   * [pycr - readthedocs](https://pycr.readthedocs.io/en/latest/)
+   * [pyicd - readthedocs](https://pyicd.readthedocs.io/en/latest/)
 
 
 I also enjoy supporting aspiring analytics professionals with their career goals. Feel free to reach out 🙂
