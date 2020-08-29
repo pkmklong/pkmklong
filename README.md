@@ -35,5 +35,5 @@ Small side projects/<b>excuses to code</b> 🔭
 
 I also enjoy supporting aspiring analytics professionals with their career goals. Feel free to reach out 🙂
 
-Snapshot of activities
+Snapshot of activities<br>
 [![Patrick's github stats](https://github-readme-stats.vercel.app/api?username=pkmklong)](https://github.com/anuraghazra/github-readme-stats)
