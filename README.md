@@ -8,6 +8,8 @@ A few of my interests 🌱
 * <b>Algorithmic Fairness </b>- how can we ensure data-driven solutions provide all patients with optimal and equitable care?
 * <b>Neuroscience </b>- how does early life experience shape communication pathways between different areas of the brain? 
 
+I also enjoy supporting aspiring analytics professionals with their career goals. Feel free to reach out 🙂
+
 <!--
 **pkmklong/pkmklong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,7 +35,8 @@ Small side projects/<b>excuses to code</b> 🔭
    * [pyicd - readthedocs](https://pyicd.readthedocs.io/en/latest/)
 
 
-I also enjoy supporting aspiring analytics professionals with their career goals. Feel free to reach out 🙂
+[![github stats](https://github-readme-stats.vercel.app/api?username=pkmklong)](https://github.com/anuraghazra/github-readme-stats)
 
-Snapshot of activities<br>
-[![Patrick's github stats](https://github-readme-stats.vercel.app/api?username=pkmklong)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
