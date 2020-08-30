@@ -35,3 +35,11 @@ Small side projects/<b>excuses to code</b> 🔭
 
 
 I also enjoy supporting aspiring analytics professionals with their career goals. Feel free to reach out 🙂
+
+
+<a href="https://developer.apple.com/swift"><img src="https://img.shields.io/badge/swift-5.2+-fe562e"></a>
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
