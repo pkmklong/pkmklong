@@ -35,6 +35,7 @@ Small side projects/<b>excuses to code</b> 🔭
 * Various small utility packages 🔧
    * [pycr - readthedocs](https://pycr.readthedocs.io/en/latest/)
    * [pyicd - readthedocs](https://pyicd.readthedocs.io/en/latest/)
+   * [Gems.jl - readthedocs](https://gemsjl.readthedocs.io/en/latest/)
 
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
