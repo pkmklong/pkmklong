@@ -41,5 +41,5 @@ I also enjoy supporting aspiring analytics professionals with their career goals
 <a href="https://julialang.org/"><img src="https://img.shields.io/badge/Code-Julia-blue"></a>
 <a href="https://developer.apple.com/swift"><img src="https://img.shields.io/badge/swift-5.2+-fe562e"></a>
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-<a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/Tool-AWS-lightgrey"></a>
+<a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/Tools-AWS-lightgrey"></a>
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
