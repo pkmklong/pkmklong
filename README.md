@@ -44,4 +44,3 @@ I also enjoy supporting aspiring analytics professionals with their career goals
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/Tool-AWS-lightgrey"></a>
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
