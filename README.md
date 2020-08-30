@@ -9,6 +9,9 @@ A few of my interests 🌱
 * <b>Neuroscience </b>- how does early life experience shape communication pathways between different areas of the brain? 
 
 
+I also enjoy supporting aspiring analytics professionals with their career goals. Feel free to reach out 🙂
+
+--------------------
 <!--
 **pkmklong/pkmklong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,9 +35,6 @@ Small side projects/<b>excuses to code</b> 🔭
 * Various small utility packages 🔧
    * [pycr - readthedocs](https://pycr.readthedocs.io/en/latest/)
    * [pyicd - readthedocs](https://pyicd.readthedocs.io/en/latest/)
-
-
-I also enjoy supporting aspiring analytics professionals with their career goals. Feel free to reach out 🙂
 
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
