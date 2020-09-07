@@ -44,6 +44,6 @@ Small side projects/<b>excuses to code</b> 🔭
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/Tools-AWS-lightgrey"></a>
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CI-circleci-brightgreen.svg?style=img.shields.io/badge&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-circleci-brightgreen.svg?style=img.shields.io/badge&logoColor=white&color=2bbc8a)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=img.shields.io/badge&logoColor=white&color=2bbc8a)](http://makeapullrequest.com)
 
