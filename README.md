@@ -37,6 +37,8 @@ Small side projects/<b>excuses to code</b> 🔭
    * [pyicd - readthedocs](https://pyicd.readthedocs.io/en/latest/)
    * [Gems.jl - readthedocs](https://gemsjl.readthedocs.io/en/latest/)
    * [MolecBio.jl - readthedocs](https://molecbio.readthedocs.io/en/latest/)
+* Tutorials in <b>Python</b> and <b>Swift</b>
+   * [Deploy a Python Machine Learning Model on iOS](https://pkmklong.medium.com/deploy-a-python-ml-model-on-ios-in-5-steps-cc67626fee0f)
 
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
