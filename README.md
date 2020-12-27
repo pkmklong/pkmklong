@@ -32,13 +32,13 @@ Small side projects/<b>excuses to code</b> 🔭
 * An educational IOS data science/statistics app in <b>Swift</b>
 * An audio-based IOS sentiment analysis app in <b>Swift</b> and <b>Python</b>
 * Various sandbox repos exploring tools in AWS, auto ML, data engineering etc. in <b>Python</b> and <b>Julia</b>
-* Various small utility packages in <b>Python</b> and <b>Julia</b> 🔧
-   * [pycr - readthedocs](https://pycr.readthedocs.io/en/latest/)
-   * [pyicd - readthedocs](https://pyicd.readthedocs.io/en/latest/)
-   * [Gems.jl - readthedocs](https://gemsjl.readthedocs.io/en/latest/)
-   * [MolecBio.jl - readthedocs](https://molecbio.readthedocs.io/en/latest/)
-* Tutorials in <b>Python</b> and <b>Swift</b>
-   * [Deploy a Python Machine Learning Model on iOS](https://pkmklong.medium.com/deploy-a-python-ml-model-on-ios-in-5-steps-cc67626fee0f)
+* Various small utility packages 🔧
+   * [pycr - readthedocs](https://pycr.readthedocs.io/en/latest/) <b>Python</b>
+   * [pyicd - readthedocs](https://pyicd.readthedocs.io/en/latest/) <b>Python</b>
+   * [Gems.jl - readthedocs](https://gemsjl.readthedocs.io/en/latest/) <b>Julia</b>
+   * [MolecBio.jl - readthedocs](https://molecbio.readthedocs.io/en/latest/) <b>Julia</b>
+* Tutorials
+   * [Deploy a Python Machine Learning Model on iOS](https://pkmklong.medium.com/deploy-a-python-ml-model-on-ios-in-5-steps-cc67626fee0f) <b>Python</b> and <b>Swift</b>
 
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
