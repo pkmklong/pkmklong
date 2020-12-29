@@ -6,7 +6,7 @@ A few of my interests 🌱
 * <b>Applied AI in Healthcare </b>- how can data practitioners best collaborate with healthcare professionals to improve patient outcomes?
 * <b>Data Interoperability </b>- how can we make various health data play well together?
 * <b>Algorithmic Fairness </b>- how can we ensure data-driven solutions provide all patients with optimal and equitable care?
-* <b>Neuroscience </b>- how does early life experience shape communication pathways between different areas of the brain? 
+* <b>Neuroscience </b>- how does life experience shape neural circuit development and can this understanding guide new therapies for early life trauma? 
 
 
 I also enjoy supporting aspiring analytics professionals with their career goals. Feel free to reach out 🙂
