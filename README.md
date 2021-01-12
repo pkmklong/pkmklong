@@ -38,7 +38,6 @@ Small side projects/<b>excuses to code</b> 🔭
    * [MolecBio.jl - readthedocs](https://molecbio.readthedocs.io/en/latest/) <b>Julia</b>
 * Tutorials
    * [Deploy a Python Machine Learning Model on iOS](https://pkmklong.medium.com/deploy-a-python-ml-model-on-ios-in-5-steps-cc67626fee0f) <b>Python</b> and <b>Swift</b>
-   * [Using Your Favorite Data Science Languages (Python…R) in Julia](https://pkmklong.medium.com/using-your-favorite-data-science-languages-python-r-in-julia-17d59d100016) <b>Python</b>,  <b>R</b> and <b>Julia</b>
 
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
