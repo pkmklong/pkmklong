@@ -32,6 +32,7 @@ Small side projects/<b>excuses to code</b> 🔭
    * [pyicd - readthedocs](https://pyicd.readthedocs.io/en/latest/) <b>Python</b>
    * [Gems.jl - readthedocs](https://gemsjl.readthedocs.io/en/latest/) <b>Julia</b>
    * [MolecBio.jl - readthedocs](https://molecbio.readthedocs.io/en/latest/) <b>Julia</b>
+   * [Propensity.jl](https://github.com/pkmklong/propensity) <b>Julia</b>
 * Tutorials
    * [Deploy a Python Machine Learning Model on iOS](https://pkmklong.medium.com/deploy-a-python-ml-model-on-ios-in-5-steps-cc67626fee0f) <b>Python</b> and <b>Swift</b>
    * [A Quick Intro to Julia's PyCall abd RCall Packages](https://link.medium.com/lQXnwVLRqdb) <b>Julia</b>, <b>Python</b> and <b>R</b>
