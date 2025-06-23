@@ -6,6 +6,7 @@ A few of my interests 🌱
 * <b>Applied AI in Healthcare </b>- how can data practitioners best collaborate with healthcare professionals to improve patient outcomes?
 * <b>Data Interoperability </b>- how can we make various health data play well together?
 * <b>Algorithmic Fairness </b>- how can we ensure data-driven solutions provide all patients with optimal and equitable care?
+* <b>AI/ML and Scientific Discovery </b>- how can we use AI/ML to accelerate scientific discovery in areas like medicine and basic science?
 
 I also enjoy supporting aspiring analytics professionals with their career goals. Feel free to reach out 🙂
 
