@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 
 
-Small side projects/<b>excuses to code</b> 🔭
+Small side projects/excuses to code (before our AI-assisted world 🙂) 🔭
 * Various small utility packages 🔧
    * [pycr - readthedocs](https://pycr.readthedocs.io/en/latest/) <b>Python</b>
    * [pyicd - readthedocs](https://pyicd.readthedocs.io/en/latest/) <b>Python</b>
