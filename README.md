@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 
 
-Small side/utility projects/excused to build 🔭
+Small side/utility projects/excuses to build 🔭
 * Various small utility packages 🔧
    * [pycr - readthedocs](https://pycr.readthedocs.io/en/latest/) <b>Python</b>
    * [pyicd - readthedocs](https://pyicd.readthedocs.io/en/latest/) <b>Python</b>
