@@ -28,12 +28,13 @@ Here are some ideas to get you started:
 
 
 Small side/utility projects/excuses to build 🔭
+*Reference notebooks*
+- [aixbio-learning-hub](https://github.com/pkmklong/aixbio-learning-hub) – curated, hands-on notebooks on AI × biology using public data: predicting drug mechanism of action from gene expression, chemical structure and genetic perturbations, plus the drug-mechanism vocabularies in common use. Python
 * Various small utility packages 🔧
    * [pycr - readthedocs](https://pycr.readthedocs.io/en/latest/) <b>Python</b>
    * [pyicd - readthedocs](https://pyicd.readthedocs.io/en/latest/) <b>Python</b>
    * [Gems.jl - readthedocs](https://gemsjl.readthedocs.io/en/latest/) <b>Julia</b>
    * [MolecBio.jl - readthedocs](https://molecbio.readthedocs.io/en/latest/) <b>Julia</b>
-   * [Propensity.jl](https://github.com/pkmklong/propensity) <b>Julia</b>
 * Tutorials
    * [A Quick Intro to Julia's PyCall and RCall Packages](https://medium.com/better-programming/using-python-and-r-with-julia-b7019a3d1420) <b>Julia</b>, <b>Python</b> and <b>R</b>
    * [Deploy a Python Machine Learning Model on Your iPhone](https://medium.com/towards-artificial-intelligence/deploy-a-python-machine-learning-model-on-your-iphone-d006b1e04bc4) <b>Python</b> and <b>Swift</b>
