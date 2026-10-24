@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi! I’m Patrick. I’m a data scientist with a background in machine learning, neuroscience and healthcare. I’m passionate about combining data with curiosity to make healthcare better for everyone. 
+Hi! I’m Patrick. I’m an applied AIML Engineer with a background in biology and healthcare. I’m passionate about combining data with curiosity to make healthcare better for everyone. 
 
 A few of my interests 🌱 
 * <b>Applied AI in Healthcare </b>- how can data practitioners best collaborate with healthcare professionals to improve patient outcomes?
