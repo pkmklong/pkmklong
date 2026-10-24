@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 -->
 
 
-Utility projects/excuses to build 🔭
+Utility projects/excuses to build 🔭 🔧
 * Reference notebooks
    * [aixbio-learning-hub](https://github.com/pkmklong/aixbio-learning-hub) – curated, hands-on notebooks on AI × biology using public data: predicting drug mechanism of action from gene expression, chemical structure and genetic perturbations, plus the drug-mechanism vocabularies in common use. Python
-* Various small utility packages 🔧
+* Various small utility packages
    * [pycr - readthedocs](https://pycr.readthedocs.io/en/latest/) <b>Python</b>
    * [pyicd - readthedocs](https://pyicd.readthedocs.io/en/latest/) <b>Python</b>
    * [Gems.jl - readthedocs](https://gemsjl.readthedocs.io/en/latest/) <b>Julia</b>
